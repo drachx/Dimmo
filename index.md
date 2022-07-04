@@ -97,69 +97,69 @@ LEGENDARY ITEMS
 
 Mainhand
 --------
-- Eager Maelstrom - Whirlwind radius increased, but Whirlwind movement speed decreased.
-- North Wind - Whirlwind now also inflicts a stacking Chill.
-- Ragecaller - Hammer of the Ancients is now also electrified, slowing enemy movement by 50% for 2 seconds.
-- Rending Bite - Lacerate now inflicts Bleeding that deals 712 damage over (3.1-0.1) seconds.
-- Sellena's Iron - Leap causes the ground to shake where you land, dealing 492 damage to all enemies in the area over 3 seconds.
-- Stonefall - Hammer of the Ancients damage increased by 10%.
-- Svot's Reach - Cleave now strikes in a full circle around you.
-- The Maddening - Movement speed increased by 15% while Frenzy is at its maximum stacks.
+- [ ] - Eager Maelstrom - Whirlwind radius increased, but Whirlwind movement speed decreased.
+- [ ] - North Wind - Whirlwind now also inflicts a stacking Chill.
+- [ ] - Ragecaller - Hammer of the Ancients is now also electrified, slowing enemy movement by 50% for 2 seconds.
+- [ ] - Rending Bite - Lacerate now inflicts Bleeding that deals 712 damage over (3.1-0.1) seconds.
+- [ ] - Sellena's Iron - Leap causes the ground to shake where you land, dealing 492 damage to all enemies in the area over 3 seconds.
+- [ ] - Stonefall - Hammer of the Ancients damage increased by 10%.
+- [ ] - Svot's Reach - Cleave now strikes in a full circle around you.
+- [ ] - The Maddening - Movement speed increased by 15% while Frenzy is at its maximum stacks.
 
 Offhand
 -------
-- Broken Soul - Wrath of the Berserker now increases Critical Hit Chance instead of Attack Speed.
-- Dishonored Blade - Demoralize duration increased by 30%.
-- Flesh Splitter - Cleave damage increased by 10%.
-- Obin's Many Fingers - Chained Spear hurls 2 additional spears.
-- Razorgrip - The range and damage of Hammer of the Ancients can now be increased by charging it up.
-- The Forgotten - Hammer of the Ancients now throws a giant hammer that damages enemies in its path and knocks them away. Picking up this hammer will reduce the remaining cooldown on Hammer of the Ancients.
-- The Remembered - Hammer of the Ancients now summons a Spirit of the Ancients who stuns all nearby enemies and then fights beside you for you for a while.
-- Virulent Fist - Enemies killed by Cleave will explode, inflicting 220 damage on all nearby enemies.
+- [ ] - Broken Soul - Wrath of the Berserker now increases Critical Hit Chance instead of Attack Speed.
+- [ ] - Dishonored Blade - Demoralize duration increased by 30%.
+- [ ] - Flesh Splitter - Cleave damage increased by 10%.
+- [ ] - Obin's Many Fingers - Chained Spear hurls 2 additional spears.
+- [ ] - Razorgrip - The range and damage of Hammer of the Ancients can now be increased by charging it up.
+- [ ] - The Forgotten - Hammer of the Ancients now throws a giant hammer that damages enemies in its path and knocks them away. Picking up this hammer will reduce the remaining cooldown on Hammer of the Ancients.
+- [ ] - The Remembered - Hammer of the Ancients now summons a Spirit of the Ancients who stuns all nearby enemies and then fights beside you for you for a while.
+- [ ] - Virulent Fist - Enemies killed by Cleave will explode, inflicting 220 damage on all nearby enemies.
 
 Helm
 ----
-- Battlemaster's Helm - Demoralize is replaced with a war cry that increases all damage you and nearby allies inflict.
-- Second Breath - Sprint duration increased by 30%.
-- Lasting Hate - Wrath of the Berserker duration increased by 30%.
-- Spiritbreaker - Sprint also leaves tornadoes in your path that deal 189 damage to any enemies they strike.
-- Berserker's Sanity - Wrath of the Berserker now also dispels effects which cause loss of control of your character.
-- Weighted Brow - Ground Stomp range increased by 20%.
-- Bestial Threat - Demoralize is replaced with a terrifying roar that damages all nearby enemies and Immobilizes them.
-- Impending Slaughter - Demoralize is replaced with an intimidating shout that damages nearby enemies and decreases their attack and movement speeds.
+- [ ] - Battlemaster's Helm - Demoralize is replaced with a war cry that increases all damage you and nearby allies inflict.
+- [ ] - Second Breath - Sprint duration increased by 30%.
+- [ ] - Lasting Hate - Wrath of the Berserker duration increased by 30%.
+- [ ] - Spiritbreaker - Sprint also leaves tornadoes in your path that deal 189 damage to any enemies they strike.
+- [ ] - Berserker's Sanity - Wrath of the Berserker now also dispels effects which cause loss of control of your character.
+- [ ] - Weighted Brow - Ground Stomp range increased by 20%.
+- [ ] - Bestial Threat - Demoralize is replaced with a terrifying roar that damages all nearby enemies and Immobilizes them.
+- [ ] - Impending Slaughter - Demoralize is replaced with an intimidating shout that damages nearby enemies and decreases their attack and movement speeds.
 
 Shoulders
 ---------
-- Animal Instinct - Leap can now charge up to increase range and damage.
-- Broken Grasp - Sprint also increases your dodge chance by 20%.
-- Grimroost - Whirlwind grants you a shield that absorbs damage equal to 3% of damage done by Whirlwind.
-- Hatred's Reach - Cleave range increased by 20%.
-- Hell's Legacy - Sprint also leaves a trail of flames, dealing 464 damage to enemies over 4 seconds.
-- Shocking Chaos - Leap is now electrified, Stunning all nearby enemies where you land.
-- The Coming Storm - Wrath of the Berserker cooldown decreased by 15%.
-- Ydama's Cyclone - Whirlwind damage increased by 10%.
+- [ ] - Animal Instinct - Leap can now charge up to increase range and damage.
+- [ ] - Broken Grasp - Sprint also increases your dodge chance by 20%.
+- [ ] - Grimroost - Whirlwind grants you a shield that absorbs damage equal to 3% of damage done by Whirlwind.
+- [ ] - Hatred's Reach - Cleave range increased by 20%.
+- [ ] - Hell's Legacy - Sprint also leaves a trail of flames, dealing 464 damage to enemies over 4 seconds.
+- [ ] - Shocking Chaos - Leap is now electrified, Stunning all nearby enemies where you land.
+- [ ] - The Coming Storm - Wrath of the Berserker cooldown decreased by 15%.
+- [ ] - Ydama's Cyclone - Whirlwind damage increased by 10%.
 
 Chest
 -----
-- The Gathering - Whirlwind pulls in all enemies it damages.
-- Ferocious Gale - Whirlwind occasionally throws out tornadoes that deal 207 damage to any enemies they strike.
-- Davin's Legacy - Hammer of the Ancients maximum charges increased by 1.
-- Crusher Rig - Chained Spear now hurls giant rocks, inflicting damage on all enemies in its path.
-- Cracklefell - Chained Spear now hurls an electrified spear that damages and immobilizes all enemies in its path.
-- Impaler's Breath - Chained Spear now hurls a harpoon that knocks enemies away, damaging and Stunning them.
-- Tracker's Rage - All damage you deal increased by 10% after activating Furious Charge.
-- Charred Iron - Chained Spear now hurls a flaming spear that damages all enemies in its path and leaves a Burning trail.
+- [ ] - The Gathering - Whirlwind pulls in all enemies it damages.
+- [ ] - Ferocious Gale - Whirlwind occasionally throws out tornadoes that deal 207 damage to any enemies they strike.
+- [ ] - Davin's Legacy - Hammer of the Ancients maximum charges increased by 1.
+- [ ] - Crusher Rig - Chained Spear now hurls giant rocks, inflicting damage on all enemies in its path.
+- [ ] - Cracklefell - Chained Spear now hurls an electrified spear that damages and immobilizes all enemies in its path.
+- [ ] - Impaler's Breath - Chained Spear now hurls a harpoon that knocks enemies away, damaging and Stunning them.
+- [ ] - Tracker's Rage - All damage you deal increased by 10% after activating Furious Charge.
+- [ ] - Charred Iron - Chained Spear now hurls a flaming spear that damages all enemies in its path and leaves a Burning trail.
 
 Legs
 ----
-- Determination - Furious Charge can now be charged up to increase its range and damage.
-- Howler's Lift - Leap damage increased by 10%.
-- Juggernaut's Plan - Sprint now causes you to run continuously, knocking away and damaging enemies in your path.
-- Kar's Defiance - Leap also grants you a shield that absorbs 932 damage.
-- Rockspike - Ground Stomp now affects all nearby enemies.
-- Screaming Fury - Furious Charge now charges to a location, damaging all nearby enemies and knocking them into the air. Also increases maximum charges to 2.
-- Shattered Ground - Ground Stomp now produces an earthquake, continually damaging enemies in the area but no longer Stunning them.
-- Swiftwing - Sprint now also increases movement speed of nearby allies.
+- [ ] - Determination - Furious Charge can now be charged up to increase its range and damage.
+- [ ] - Howler's Lift - Leap damage increased by 10%.
+- [ ] - Juggernaut's Plan - Sprint now causes you to run continuously, knocking away and damaging enemies in your path.
+- [ ] - Kar's Defiance - Leap also grants you a shield that absorbs 932 damage.
+- [ ] - Rockspike - Ground Stomp now affects all nearby enemies.
+- [ ] - Screaming Fury - Furious Charge now charges to a location, damaging all nearby enemies and knocking them into the air. Also increases maximum charges to 2.
+- [ ] - Shattered Ground - Ground Stomp now produces an earthquake, continually damaging enemies in the area but no longer Stunning them.
+- [ ] - Swiftwing - Sprint now also increases movement speed of nearby allies.
 
 
 GREEN Set Items
@@ -171,12 +171,12 @@ Grace of the Flagellant Set
 - 4/6 Bonus - Each time you damage an individual enemy 5 times, you will do 287 additional damage to that enemy.
 - 6/6 Bonus - Each time you deal damage, you have a 4% chance to unleash a lightning strike, dealing 1724 damage to all nearby enemies and Stunning them for 2 seconds. Cannot occur more often than once every 40 seconds.
 
-- Open Gut (belt) - Pit of Anguish, Hell 1+
-- Torn Sole (boots) - Mad King’s Breach, Hell 1+
-- Cut Throat (amulet) - Destruction’s End, Hell 2+
-- Bloody Hand (gloves) - Cavern of Echoes, Hell 2+
-- Severed Thumb (ring) - Temple of Namari, Hell 4+
-- Broken Palm (ring) - Kikuras Rapids, Hell 4+
+- [ ] - Open Gut (belt) - Pit of Anguish, Hell 1+
+- [ ] - Torn Sole (boots) - Mad King’s Breach, Hell 1+
+- [ ] - Cut Throat (amulet) - Destruction’s End, Hell 2+
+- [ ] - Bloody Hand (gloves) - Cavern of Echoes, Hell 2+
+- [ ] - Severed Thumb (ring) - Temple of Namari, Hell 4+
+- [ ] - Broken Palm (ring) - Kikuras Rapids, Hell 4+
 
 Untouchable Mountebank Set
 --------------------------
@@ -184,12 +184,12 @@ Untouchable Mountebank Set
 - 4/6 Bonus - Shield's damage absorption increased to 33% of your maximum Life, and you can move unhindered through enemies while this shield is active.
 - 6/6 Bonus - Your shield has a 25% chance when it expires to explode for 40% of your maximum Life in damage to all nearby enemies.
 
-- Mountebank’s Bravado (belt) - Mad King’s Breach, Hell 1+
-- Mountebank’s Slyness (boots) - Forgotten Tower, Hell 1+
-- Mountebank’s Shirking (gloves) - Pit of Anguish, Hell 2+
-- Mountebank’s Flurish (amulet) - Cavern of Echoes, Hell 2+
-- Mountebank’s Misdirection (ring) - Temple of Namari, Hell 4+
-- Mountebank’s Marvel (ring) - Kikuras Rapids, Hell 4+
+- [ ] - Mountebank’s Bravado (belt) - Mad King’s Breach, Hell 1+
+- [ ] - Mountebank’s Slyness (boots) - Forgotten Tower, Hell 1+
+- [ ] - Mountebank’s Shirking (gloves) - Pit of Anguish, Hell 2+
+- [ ] - Mountebank’s Flurish (amulet) - Cavern of Echoes, Hell 2+
+- [ ] - Mountebank’s Misdirection (ring) - Temple of Namari, Hell 4+
+- [ ] - Mountebank’s Marvel (ring) - Kikuras Rapids, Hell 4+
 
 Vithu’s Urges Set (Demo buffer build - Battlemaster's Helm)
 -----------------------------------------------------------
@@ -197,12 +197,12 @@ Vithu’s Urges Set (Demo buffer build - Battlemaster's Helm)
 - 4/6 Bonus - Increases the target's Attack Speed by 30% for 3 seconds each time you use a skill to grant a beneficial effect to yourself or a party member.
 - 6/6 Bonus - Each time you use a skill to buff yourself or a party member, creates an area of apotheosis for 10 seconds that grants 15% Life Drain to yourself and any party members within the area. Cannot occur more often than once every 40 seconds.
 
-- Exemplar’s Urge (belt) - Cavern of Echoes, Hell 1+
-- Beacon’s Urge (boots) - Pit of Anguish, Hell 1+
-- Luminary’s Urge (gloves) - Temple of Namari, Hell 2+
-- Awakener’s Urge (amulet) - Kikuras Rapids, Hell 2+
-- Shameless Urge (ring) – Tomb of Fahir, Hell 4+
-- Modest Urge (ring) - Destruction’s End, Hell 4+
+- [ ] - Exemplar’s Urge (belt) - Cavern of Echoes, Hell 1+
+- [ ] - Beacon’s Urge (boots) - Pit of Anguish, Hell 1+
+- [ ] - Luminary’s Urge (gloves) - Temple of Namari, Hell 2+
+- [ ] - Awakener’s Urge (amulet) - Kikuras Rapids, Hell 2+
+- [ ] - Shameless Urge (ring) – Tomb of Fahir, Hell 4+
+- [ ] - Modest Urge (ring) - Destruction’s End, Hell 4+
 
 
 SKILLS
