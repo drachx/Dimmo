@@ -1,3 +1,5 @@
+# Lindol's Diablo Immortal Ultimate Barbarian Guide
+
 Combat Ratings
 ==============
 - Hell1: CR 800 - basic
