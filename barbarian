@@ -79,7 +79,7 @@ Basic- Frenzy (ultimate immune to cc)
 Skill 1 - Charge(PVP)
 Skill 2 - Whirlwind
 Skill 3 - Undying Rage
-Skill 4 - Sprint(PVP) / Wrath (RAID) / Hammer(Solo)
+Skill 4 - Sprint(PVP) / Wrath (RAID) / Hammer(Solo) / Demo ( with Battlemaster's Helm)
 
 PVP (no wrath + ww)
 ------------------------------
@@ -94,7 +94,8 @@ RAID (wrath + ww)
 -------------------------------
 Main: The Maddening - Movement speed increased by 15% while Frenzy is at its maximum stacks
 Off: Broken Soul - Wrath of the Berserker now increases Critical Hit Chance instead of Attack Speed.
-Head: Lasting Hate - Wrath of the Berserker duration increased by 30%.
+Head: Lasting Hate - Wrath of the Berserker duration increased by 30%
+    -OR- Battlemaster's Helm - replaced with a war cry that increases all damage you and nearby allies inflict
 Chest: Ferocious Gale - Whirlwind occasionally throws out tornadoes that deal 207 damage to any enemies they strike
 Shoulders: The Coming Storm - Wrath of the Berserker cooldown decreased by 15%.
 Legs: Screaming Fury - Furious Charge now charges to a location, damaging all nearby enemies and knocking them into the air. Also increases maximum charges to 2.
@@ -202,7 +203,7 @@ Mountebank’s Flurish (amulet) - Cavern of Echoes, Hell 2+
 Mountebank’s Misdirection (ring) - Temple of Namari, Hell 4+
 Mountebank’s Marvel (ring) - Kikuras Rapids, Hell 4+
 
-Vithu’s Urges Set (Demo buffer build)
+Vithu’s Urges Set (Demo buffer build - Battlemaster's Helm)
 -------------------------------------------
 2/6 Bonus - Increases the duration of all beneficial effects on you or your party members by 30%.
 4/6 Bonus - Increases the target's Attack Speed by 30% for 3 seconds each time you use a skill to grant a beneficial effect to yourself or a party member.
