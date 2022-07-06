@@ -1,6 +1,6 @@
 ![Barbarian Banner](../docs/assets/images/barbarian-banner.png)
 
-# Lindol's Diablo Immortal Ultimate Barbarian Guide
+# Barbarian Guide
 
 
 Combat Ratings
