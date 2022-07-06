@@ -61,6 +61,15 @@ Best Legendary Gems
 5. Bottled Hope - provides great damage and movement speed. It can be triggered easily by using Sprint, Wrath of the Berserker or Undying Rage.
 6. Chip of Stone Flesh - increases your damage sigificantly and can proc from any hard cc like your stun from the Hammer of the Ancients + combination. In this PvP Guide however it is mostly a stat & resonance boost.
 
+Pure Damage Gems
+================
+1. Berserker's Eye - Increases all damage you deal by 5.50%, but also increases all damage you take by 6%.
+2. Chained Death - Increases damage done by your attacks by 1.50% per target hit, up to a maximum of x*3% with 3 targets.
+3. 2* Cutthroat's Grin - Gain 8.0% increased Critical Hit Chance when attacking from behind
+4. 2* Power & Command - Power & Command alternate states every 9 seconds. Power increases your Primary Attack damage by 8.0%.
+5. 2* Fervent Fang - Each time you deal damage to an enemy, that enemy now takes x% increased from your attack, up to a maximum of x% at 10 stacks.
+6. 5* Blood-Soaked Jade - Increases all damage you deal by up to 8.0% and your Movement speed by 10%, with less damage bonus the lower your Life, to a minimum of x*0.5%.
+
 
 Whirlwind
 =========
