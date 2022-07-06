@@ -4,6 +4,5 @@ relative_links:
   collections: true
 include:
   - index.md
-  - docs/assets/images/barbarian-banner.webp
   - barbarian/index.md
   - barbarian/green.md
