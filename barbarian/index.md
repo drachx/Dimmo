@@ -1,4 +1,4 @@
-![Barbarian Banner](/guides/docs/assets/barbarian-banner.webp)
+![Barbarian Banner](/guides/assets/barbarian-banner.webp)
 
 # Lindol's Diablo Immortal Ultimate Barbarian Guide
 
