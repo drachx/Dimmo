@@ -3,4 +3,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - barbarian.md
+  - index.md
+  - barbarian/index.md
+  - barbarian/green.md
