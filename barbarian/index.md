@@ -28,26 +28,26 @@ Paragon points
 
 * You can also multi spec Surv(32) then Glad(38) lastly Vang(31) - I prio life stats
 
-#### Example
+#### Example below 100 paragon
 * Stat per point\
 > hp +200\
 > ar +4\
 > dmg +0\
 > arp +20\
-> res +4\
+> res +4
 
 
 * DAMAGE: (damage)\
 > Vang: 5(dmg) / 1 / 25(dmg) / 1 / 25(arp) = dmg +600 arp +500 = 57pts\
 > TFind: 5(ar) / 1 / 15(dmg) / 1 / 15(arp) / 1 = dmg +300 arp +300 = 43pts\
 > Glad: 20(arp) / 1 / 10(hp) / 1 / 10(res) / 10(hp) / 1 / 25 (dmg) = dmg +500 arp +500 hp +2000 res +40 =  78pts\
-> Soldier: 1 / 15(ar) / 15(dmg) / 1 / 1 / 20(arp) / 1 = dmg +300 arp 500 ar +60  = 54pts\
+> Soldier: 1 / 15(ar) / 15(dmg) / 1 / 1 / 20(arp) / 1 = dmg +300 arp 500 ar +60  = 54pts
 
 
 * HP: (tank/support)\
 > Vang: 5(dmg) / 1 / 25(hp) = dmg +100 hp +5000 = 31pts\
 > Surv: 5(hp) / 1 / 10(ar) / 1 / 15(hp) = hp +4000 ar +40 = 32pts\
-> Glad: 5(arp) / 1 / 10(hp) / 1 / 10(res) / 10(hp) / 1 = arp +100 hp +4000 res +40 = 38pts\
+> Glad: 5(arp) / 1 / 10(hp) / 1 / 10(res) / 10(hp) / 1 = arp +100 hp +4000 res +40 = 38pts
 
 
 
