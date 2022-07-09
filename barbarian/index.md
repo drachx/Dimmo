@@ -286,7 +286,7 @@ Leveling
 - P31-P80 - H2 green farming, gems, legos, world events, clan invites
 
 
-![Set Items](docs/assets/images/set-items.png)
+![Set Items](../docs/assets/images/set-items.png)
 
 # H1
 
