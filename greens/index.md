@@ -1,6 +1,17 @@
 <!-- ![Set Items](../docs/assets/images/set-items.png) -->
 
-# Set Items - Green quick guide
+# Recommended set items by class:
+- [Barbarian set](greens/barb.html)
+- [Crusader set](greens/crux.html)
+- [Demon Hunter set](greens/dh.html)
+- [Monk set](greens/monk.html)
+- [Necromancer set](greens/necro.html)
+- [Wizard set](greens/wiz.html)
+- [World Farmer set](greens/farmer.html)
+
+-----
+
+# Complete List of Set Items - Green quick guide
 
 # H1
 
