@@ -1,4 +1,4 @@
-![Set Items](../docs/assets/images/set-items.png)
+<!-- ![Set Items](../docs/assets/images/set-items.png) -->
 
 # Set Items - Green quick guide
 
