@@ -9,7 +9,9 @@ This page is located at [https://lindoldimmo.github.io/guides/](https://lindoldi
   - [Necromancer set](greens/necro.html)
   - [Wizard set](greens/wiz.html)
   - [World Farmer set](greens/farmer.html)
+
 - [Barbarian Guide](barbarian/index.html)
+- [Crusader Guide](crusader/index.html)
 
 
 
