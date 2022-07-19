@@ -1,21 +1,42 @@
 # Ultimate Crusader - quick guide
 
-## Skills
+
+
+## Raid
+
+### Skills 
 Basic: Sacred Fire
 Skill 1: Spinning Shield - very small aoe boss killer 3stack
 Skill 2: Falling Sword  - aoe damage
-Skill 3: Conjuration of Light - aoe immortality (Ohh shit becomes ohh my with the Legendary Chest item)
-Skill 4: Holy Banner - Aoe 100% crit buff
+Skill 3: Holy Banner - Aoe 100% crit buff
+Skill 4: Conjuration of Light - aoe immortality (Ohh shit becomes ohh my with the Legendary Chest item)
 
-
-## Legendary Items:
+### Legendary Items:
 
 - Main Hand: Tumult - Falling Sword now summons a storm of blades around it, continually damaging all nearby enemies, but can no longer be activated again for movement. 
 - Off Hand: Sinkhole Cross - Spinning Shield hovers at a location, damaging enemies and reducing their movement speed. 
 - Head: Arrowkeepter - The inspiration from Holy Banner now moves with you. 
 - Shoulder: Wind-Blessed Pauldrons - Conjuration of Light duration increased by 30%.
 - Chest: Justice Without Favor - (Ohh shit becomes Ohh my...) Conjuration of Light surrounds you and your allies with holy fire that continually damages all nearby enemies, but no longer prevents damage. 
-- Legs: Leggins of the Consigner - Damage you deal during Conjuration of Light grants you an absorb shield when it expires, equal to x% of all damage you dealt but no more than 20% of your maximum Life. 
+- Legs: Leggins of the Consigner - Damage you deal during Conjuration of Light grants you an absorb shield when it expires, equal to x% of all damage you dealt but no more than 20% of your maximum Life.
+
+
+## Non raid
+Basic: Sacred Fire
+Skill 1: Shield Glare - Laser
+Skill 2: Spinning Shield
+Skill 3: Holy Banner - Aoe 100% crit buff
+Skill 4: Sweep Attack -or- Draw and Quarter - Pony!!!
+
+### Legendary Items:
+
+- Main Hand: Closing-Jaws - Sweep Attack now pulls all enemies to you
+- Off Hand: Bonebearer - Shield Glare now consumed enery to reflect a beam of light that continually damages enemies in a direction but no longer Blinds enemies.
+- Head: Arrowkeepter - The inspiration from Holy Banner now moves with you. 
+- Shoulder: The Folly of Zakarum - Holy Banner duration increased by 30%. Holy Banner cooldown decreased by 10%.
+- Chest: Sprintback Chain - Spinning Shield damage increased by 10%
+- Legs: Tactics and Secrets - Shield Glare damage increased by 10%
+
 
 ## Greens: 
 - Vithu
