@@ -5,11 +5,11 @@
 ## Raid
 
 ### Skills 
-Basic: Sacred Fire
-Skill 1: Spinning Shield - very small aoe boss killer 3stack
-Skill 2: Falling Sword  - aoe damage
-Skill 3: Holy Banner - Aoe 100% crit buff
-Skill 4: Conjuration of Light - aoe immortality (Ohh shit becomes ohh my with the Legendary Chest item)
+- Basic: Sacred Fire
+- Skill 1: Spinning Shield - very small aoe boss killer 3stack
+- Skill 2: Falling Sword  - aoe damage
+- Skill 3: Holy Banner - Aoe 100% crit buff
+- Skill 4: Conjuration of Light - aoe immortality (Ohh shit becomes ohh my with the Legendary Chest item)
 
 ### Legendary Items:
 
@@ -22,11 +22,11 @@ Skill 4: Conjuration of Light - aoe immortality (Ohh shit becomes ohh my with th
 
 
 ## Non raid
-Basic: Sacred Fire
-Skill 1: Shield Glare - Laser
-Skill 2: Spinning Shield
-Skill 3: Holy Banner - Aoe 100% crit buff
-Skill 4: Sweep Attack -or- Draw and Quarter - Pony!!!
+- Basic: Sacred Fire
+- Skill 1: Shield Glare - Laser
+- Skill 2: Spinning Shield
+- Skill 3: Holy Banner - Aoe 100% crit buff
+- Skill 4: Sweep Attack -or- Draw and Quarter - Pony!!!
 
 ### Legendary Items:
 
