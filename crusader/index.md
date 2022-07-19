@@ -4,7 +4,7 @@
 Basic: Sacred Fire
 Skill 1: Spinning Shield - very small aoe boss killer 3stack
 Skill 2: Falling Sword  - aoe damage
-Skill 3: Conjuration of Light - aoe immortality (Ohh shit button)
+Skill 3: Conjuration of Light - aoe immortality (Ohh shit becomes ohh my with the Legendary Chest item)
 Skill 4: Holy Banner - Aoe 100% crit buff
 
 
@@ -14,7 +14,7 @@ Skill 4: Holy Banner - Aoe 100% crit buff
 - Off Hand: Sinkhole Cross - Spinning Shield hovers at a location, damaging enemies and reducing their movement speed. 
 - Head: Arrowkeepter - The inspiration from Holy Banner now moves with you. 
 - Shoulder: Wind-Blessed Pauldrons - Conjuration of Light duration increased by 30%.
-- Chest: Justice Without Favor - Conjuration of Light surrounds you and your allies with holy fire that continually damages all nearby enemies, but no longer prevents damage. 
+- Chest: Justice Without Favor - (Ohh shit becomes Ohh my...) Conjuration of Light surrounds you and your allies with holy fire that continually damages all nearby enemies, but no longer prevents damage. 
 - Legs: Leggins of the Consigner - Damage you deal during Conjuration of Light grants you an absorb shield when it expires, equal to x% of all damage you dealt but no more than 20% of your maximum Life. 
 
 ## Greens: 
