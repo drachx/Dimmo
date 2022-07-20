@@ -128,6 +128,26 @@ RAID (wrath + ww)
 - Shoulders: The Coming Storm - Wrath of the Berserker cooldown decreased by 15%.
 - Legs: Screaming Fury - Furious Charge now charges to a location, damaging all nearby enemies and knocking them into the air. Also increases maximum charges to 2.
 
+MAX DAMAGE
+----------
+This build can use WW (AOE) or Basic attack (BOSS KILLER) as main source of damage. 
+
+- : Battlemaster’s Helm - Demoralize is replaced with a war cry that increases all damage you and nearby allies inflict.
+- Shoulder: The Coming Storm - Wrath of the Berserker cooldown decreased by 15%.
+- Chest:  Tracker’s Rage - All damage you deal increased by 10% after activating Furious Charge.
+- Legs: Screaming Fury - Furious Charge now charges to a location, damaging all nearby enemies and knocking them into the air. Also increases maximum charges to 2.
+- Mainhand: Eager Maelstrom - Whirlwind radius increased, but Whirlwind movement speed decreased -or- The Maddening - Movement speed increased by 15% while Frenzy is at its maximum stacks (BASIC ATTACK GODS)
+- Offhand: Broken Soul - Wrath of the Berserker now increases Critical Hit Chance instead of Attack Speed.
+
+*Reducing cooldowns of our key buffs:*
+*WRATH(100% crit) and DEMORALIZE (30% damage) is on the same 30s cooldown.*
+
+*To reduce this, we need to have our*
+- *1. helm awakened and use Battlemaster (reduces demo 10%)*
+- *2. shoulder is Coming Storm (reduces wrath 15%)*
+
+*So now both demo and wrath will have the same 15% reduced cooldown = happy BARB!!!*
+
 
 LEGENDARY ITEMS
 ===============
