@@ -218,6 +218,14 @@ Legs
 - [ ] - Shattered Ground - Ground Stomp now produces an earthquake, continually damaging enemies in the area but no longer Stunning them.
 - [ ] - Swiftwing - Sprint now also increases movement speed of nearby allies.
 
+## Season 2 New Legendary Items:
+- [ ] - Compromise is Loss: Ground Stomp now rips open the ground, dealing damage to enemies in front of you. Maximum X charges.
+- [ ] - Doom of the Cowed: Activating Wrath of the Berserker now immediately reduces the Movement Speed of all nearby enemies by X%.
+- [ ] - Five Fresh Claws: Whirlwind now shreds armor, increasing all damage enemies take by X%, stacking up to five times.
+- [ ] - Lunatic Twin: When Frenzy is fully stacked, each attack unleashes X damage to all enemies in front of you. Cannot occur more often than once every Y seconds.
+- [ ] - Paste and Powder: Hammer of the Ancients now randomly drops hammers in the targeted area multiple times.
+- [ ] - The Trembling: Undying Rage also increases your Movement Speed by X%.
+
 
 GREEN Set Items
 ===============
