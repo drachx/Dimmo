@@ -1,6 +1,6 @@
 <!-- ![Set Items](../docs/assets/images/set-items.png) -->
 
-# Set Items - Green quick guide
+# Green Item Set - recommended for Crusaders
 
 # H1
 
