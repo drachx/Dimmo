@@ -1,6 +1,7 @@
 # Lindol's Diablo Immortal Ultimate Guides
 This page is located at [https://lindoldimmo.github.io/guides/](https://lindoldimmo.github.io/guides/)
 
+- [Gems](gem/index.html)
 - [Green Set Items](greens/index.html)
   - [Barbarian set](greens/barb.html)
   - [Crusader set](greens/crux.html)
