@@ -49,11 +49,18 @@ Paragon points
 > Surv: 5(hp) / 1 / 10(ar) / 1 / 15(hp) = hp +4000 ar +40 = 32pts\
 > Glad: 5(arp) / 1 / 10(hp) / 1 / 10(res) / 10(hp) / 1 = arp +100 hp +4000 res +40 = 38pts
 
-###Example with Life/HP Paragon build - both good in Raid and PvP. No life Barb = No damage Barb*
+### Example with Life/HP Paragon build
 
+Start with Treasuer tree = quick leveling and gearing up
 ![image](https://user-images.githubusercontent.com/108700513/180900419-4baf7fb2-c56d-4902-97d9-d9743cde83f8.png)
+
+Follow with Survival tree = world/dungeon grinding
 ![image](https://user-images.githubusercontent.com/108700513/180900489-615e2967-6687-47f7-9ee1-434694c5e477.png)
+
+Then Gladiator tree = more PvP sustain
 ![image](https://user-images.githubusercontent.com/108700513/180900503-8a30390c-ec3f-40e8-9535-d0eefae0edba.png)
+
+Lastly Vanguisher = more damage
 ![image](https://user-images.githubusercontent.com/108700513/180900521-a0bad037-2282-491d-b8dd-bd01ed08844b.png)
 
 
