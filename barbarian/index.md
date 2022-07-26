@@ -49,6 +49,12 @@ Paragon points
 > Surv: 5(hp) / 1 / 10(ar) / 1 / 15(hp) = hp +4000 ar +40 = 32pts\
 > Glad: 5(arp) / 1 / 10(hp) / 1 / 10(res) / 10(hp) / 1 = arp +100 hp +4000 res +40 = 38pts
 
+###Example with Life/HP Paragon build - both good in Raid and PvP. No life Barb = No damage Barb*
+
+![image](https://user-images.githubusercontent.com/108700513/180900419-4baf7fb2-c56d-4902-97d9-d9743cde83f8.png)
+![image](https://user-images.githubusercontent.com/108700513/180900489-615e2967-6687-47f7-9ee1-434694c5e477.png)
+![image](https://user-images.githubusercontent.com/108700513/180900503-8a30390c-ec3f-40e8-9535-d0eefae0edba.png)
+![image](https://user-images.githubusercontent.com/108700513/180900521-a0bad037-2282-491d-b8dd-bd01ed08844b.png)
 
 
 STATS prio
@@ -128,14 +134,14 @@ RAID (wrath + ww)
 - Shoulders: The Coming Storm - Wrath of the Berserker cooldown decreased by 15%.
 - Legs: Screaming Fury - Furious Charge now charges to a location, damaging all nearby enemies and knocking them into the air. Also increases maximum charges to 2.
 
-MAX DAMAGE
+MAX DAMAGE with Ground Stomp
 ----------
-This build can use WW (AOE) or Basic attack (BOSS KILLER) as main source of damage. 
+Rotation: WW(5stack) - Demo - Wrath - Stomp - WW
 
-- : Battlemaster’s Helm - Demoralize is replaced with a war cry that increases all damage you and nearby allies inflict.
+- Helm: Battlemaster’s Helm - Demoralize is replaced with a war cry that increases all damage you and nearby allies inflict.
 - Shoulder: The Coming Storm - Wrath of the Berserker cooldown decreased by 15%.
-- Chest:  Tracker’s Rage - All damage you deal increased by 10% after activating Furious Charge.
-- Legs: Screaming Fury - Furious Charge now charges to a location, damaging all nearby enemies and knocking them into the air. Also increases maximum charges to 2.
+- Chest: Five Fresh Claws - Whirlwind now shreds armor, increasing all damage enemies take by 2%, stacking up to 5 times.
+- Legs: Shattered Ground - Ground Stomp now produces and earthquake, continually damaging enemies in the area but no longer Stunning them.
 - Mainhand: Eager Maelstrom - Whirlwind radius increased, but Whirlwind movement speed decreased -or- The Maddening - Movement speed increased by 15% while Frenzy is at its maximum stacks (BASIC ATTACK GODS)
 - Offhand: Broken Soul - Wrath of the Berserker now increases Critical Hit Chance instead of Attack Speed.
 
@@ -162,6 +168,7 @@ Mainhand
 - [ ] - Stonefall - Hammer of the Ancients damage increased by 10%.
 - [ ] - Svot's Reach - Cleave now strikes in a full circle around you.
 - [ ] - The Maddening - Movement speed increased by 15% while Frenzy is at its maximum stacks.
+- [ ] - Lunatic Twin - When Frenzy if fully stacked, each attack unleashes 807 damage to all enemies in front of your. 0.4 cooldown.
 
 Offhand
 -------
@@ -173,6 +180,7 @@ Offhand
 - [ ] - The Forgotten - Hammer of the Ancients now throws a giant hammer that damages enemies in its path and knocks them away. Picking up this hammer will reduce the remaining cooldown on Hammer of the Ancients.
 - [ ] - The Remembered - Hammer of the Ancients now summons a Spirit of the Ancients who stuns all nearby enemies and then fights beside you for you for a while.
 - [ ] - Virulent Fist - Enemies killed by Cleave will explode, inflicting 220 damage on all nearby enemies.
+- [ ] - Paste and Powder -  Hammer of the Ancients now randomly drops hammer in the targeted area multiple times.
 
 Helm
 ----
@@ -184,6 +192,7 @@ Helm
 - [ ] - Weighted Brow - Ground Stomp range increased by 20%.
 - [ ] - Bestial Threat - Demoralize is replaced with a terrifying roar that damages all nearby enemies and Immobilizes them.
 - [ ] - Impending Slaughter - Demoralize is replaced with an intimidating shout that damages nearby enemies and decreases their attack and movement speeds.
+- [ ] - The Trembling - Undying Rage also increases your Movement Speed by 50%
 
 Shoulders
 ---------
@@ -195,6 +204,7 @@ Shoulders
 - [ ] - Shocking Chaos - Leap is now electrified, Stunning all nearby enemies where you land.
 - [ ] - The Coming Storm - Wrath of the Berserker cooldown decreased by 15%.
 - [ ] - Ydama's Cyclone - Whirlwind damage increased by 10%.
+- [ ] - Doom of the Cowed - Activating Wrath of the Berserker now immediately reduces the Movement Speed of all nearby enemies by 80%
 
 Chest
 -----
@@ -206,6 +216,7 @@ Chest
 - [ ] - Impaler's Breath - Chained Spear now hurls a harpoon that knocks enemies away, damaging and Stunning them.
 - [ ] - Tracker's Rage - All damage you deal increased by 10% after activating Furious Charge.
 - [ ] - Charred Iron - Chained Spear now hurls a flaming spear that damages all enemies in its path and leaves a Burning trail.
+- [ ] - Five Fresh Claws - Whirlwind now shreds armor, increasing all damage enemies take by 2%, stacking up to 5 times.
 
 Legs
 ----
@@ -217,6 +228,7 @@ Legs
 - [ ] - Screaming Fury - Furious Charge now charges to a location, damaging all nearby enemies and knocking them into the air. Also increases maximum charges to 2.
 - [ ] - Shattered Ground - Ground Stomp now produces an earthquake, continually damaging enemies in the area but no longer Stunning them.
 - [ ] - Swiftwing - Sprint now also increases movement speed of nearby allies.
+- [ ] - Compromise is Loss - Ground Stomp now rips open the ground, dealing damage to enemies in front of you. Maximum 2 charges.
 
 ## Season 2 New Legendary Items:
 - [ ] - Compromise is Loss: Ground Stomp now rips open the ground, dealing damage to enemies in front of you. Maximum X charges.
