@@ -83,7 +83,7 @@ Best Legendary Gems
 3. Blessing of the Worthy - is amazing because you're constantly in melee range of enemies. Any damage taken activates devastating damage every 15 seconds, obliterating anything nearby.
 4. Phoenix Ashes - gives a cheat death that increases in effectiveness as you rank this gem up. There might be unpredictable interactions between this Gem and Undying Rage, so we have to see how it performs with more testing.
 5. Bottled Hope - provides great damage and movement speed. It can be triggered easily by using Sprint, Wrath of the Berserker or Undying Rage.
-6. Chip of Stone Flesh - increases your damage sigificantly and can proc from any hard cc like your stun from the Hammer of the Ancients + combination. In this PvP Guide however it is mostly a stat & resonance boost.
+6. Chip of Stone Flesh - increases your damage sigificantly and can proc from any hard cc like your stun from the Hammer of the Ancients + combination. However it is mostly a stat & resonance boost.
 
 Pure Damage Gems
 ================
