@@ -150,7 +150,7 @@ RAID (wrath + ww)
 - Legs: Screaming Fury - Furious Charge now charges to a location, damaging all nearby enemies and knocking them into the air. Also increases maximum charges to 2.
 
 MAX DAMAGE with Ground Stomp
-----------
+----------------------------
 Rotation: WW(5stack) - Demo - Wrath - Stomp - WW
 
 - Helm: Battlemaster’s Helm - Demoralize is replaced with a war cry that increases all damage you and nearby allies inflict.
@@ -160,6 +160,24 @@ Rotation: WW(5stack) - Demo - Wrath - Stomp - WW
 - Mainhand: Eager Maelstrom - Whirlwind radius increased, but Whirlwind movement speed decreased -or- The Maddening - Movement speed increased by 15% while Frenzy is at its maximum stacks (BASIC ATTACK GODS)
 - Offhand: Broken Soul - Wrath of the Berserker now increases Critical Hit Chance instead of Attack Speed.
 
+THE RETURN OF FRENZY BARB
+-------------------------
+Rotation: Who needs rotation? Hulk smash those buttons!
+
+Skills: Frenzy, Charge, Stomp, Wrath, Demo
+
+Helm: Battlemaster's Helm (Demo inceases party 25% dmg)
+Chest: Tracker's Rage - 10% damage after charge
+Shoulder: The Coming Storm - Wrath less 15% cd
+Legs: Shattered Ground - stomp aoe (just extra aoe damage nothing special)
+Mainhand: Lunatic Twin - Frenzy - main damage (extra damage even if single target)
+Offhand: Broken Soul - Wrath (Crit) -or- Dishonored Blade (demo +30% duration)
+
+Offhand depends if there is a banner or not. 2Vithu + 2Warrags set.
+
+
+WRATH DEMO REDUCED CD
+---------------------
 *Reducing cooldowns of our key buffs:*
 *WRATH(100% crit) and DEMORALIZE (30% damage) is on the same 30s cooldown.*
 
