@@ -166,14 +166,14 @@ Rotation: Who needs rotation? Hulk smash those buttons!
 
 Skills: Frenzy, Charge, Stomp, Wrath, Demo
 
-Helm: Battlemaster's Helm (Demo inceases party 25% dmg)
-Chest: Tracker's Rage - 10% damage after charge
-Shoulder: The Coming Storm - Wrath less 15% cd
-Legs: Shattered Ground - stomp aoe (just extra aoe damage nothing special)
-Mainhand: Lunatic Twin - Frenzy - main damage (extra damage even if single target)
-Offhand: Broken Soul - Wrath (Crit) -or- Dishonored Blade (demo +30% duration)
+- Helm: Battlemaster's Helm (Demo inceases party 25% dmg)
+- Chest: Tracker's Rage - 10% damage after charge
+- Shoulder: The Coming Storm - Wrath less 15% cd
+- Legs: Shattered Ground - stomp aoe (just extra aoe damage nothing special)
+- Mainhand: Lunatic Twin - Frenzy - main damage (extra damage even if single target)
+- Offhand: Broken Soul - Wrath (Crit) -or- Dishonored Blade (demo +30% duration)
 
-Offhand depends if there is a banner or not. 2Vithu + 2Warrags set.
+*Offhand depends if there is a banner or not. 2Vithu + 2Warrags set.*
 
 
 WRATH DEMO REDUCED CD
