@@ -97,8 +97,9 @@ My Starter Legendary Gems
 2. 2* Lightning Core - (AOE) does direct damage to an enemy group, often wiping them out in the process. While the damage is infrequent, it's useful for taking down larger targets.
 3. 2* Power and Command - (dmg, anti cc) Alternates states every nine seconds. Power state increases your primary attack damage by 8%. Command state increases all other skill damage by 8%
 4. Trickshot Gem - (less energy) allows you to channel Whirlwind longer, especially when ranked up and awakened! The best 1 star Legendary Gem Whirlwind Barb!
-5. Everlasting Torment - (20s cd, 6s dmg) deals incredible damage over time after a Critical Hit. For a simple 1 star Legendary Gem, this packs a punch.
-6. Chained Death - (stacks 3x) gives a solid damage boost, especially in AoE situations.
+5. Chained Death - (stacks 3x) gives a solid damage boost, especially in AoE situations.
+6. Everlasting Torment - (20s cd, 6s dmg) deals incredible damage over time after a Critical Hit. For a simple 1 star Legendary Gem, this packs a punch.
+7. Berserker's Eye - Increases all damage you deal by 5.50%, but also increases all damage you take by 6%.
 
 
 Best Legendary Gems
