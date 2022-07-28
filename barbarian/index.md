@@ -39,10 +39,14 @@ Paragon points
 * DAMAGE only:
 > Glad: 5(arp)/ 1 / 10(hp) / 1 / 10(res) / 10(hp) / 1 / 25(dmg) = 63\
 > THunt 5(ar) / 1 / 15(dmg) = 21\
-> Vang: 5(dmg) / 1 / 25(dmg) = 31\
-Total = 115\
-> Glad: 20 / 1 = 136\
-> THunt: 15 / 1 = 153
+> Vang: 5(dmg) / 1 / 25(dmg) = 31
+
+Total = 115
+
+> THunt: 15 / 1(find) / 15 1(greed) = 32\
+> Vang: 1(wrath) = 1
+
+Grand Total = 149
 
 
 * DAMAGE: (damage)
