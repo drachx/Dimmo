@@ -13,8 +13,10 @@ More info: [Upgrading Legendary Gems](upgrade.html)
 
 # Leveling guide
 
-1. 1-star to Magic bonus asap
-2. Next 2-star to Magic bonus asap
-3. Max out 1-star Ranks
-4. Start getting bonus damage for 5stars
-5. Max out 2-star before progressing 5star, you can start feeding 1-star rank to your 2star/5star as you need to replace it.
+1. 1-star to (Rank 5 - magic)
+2. 2-star to (Rank 3)
+3. 1-star progression to (Rank 10)
+4. 2-star to (Rank 5 - magic)
+5. 5-star to R2
+6. 2-star progression to (Rank 10)
+7. Start feeding 1-star to 5-star as needed til Rank 5 - magic)
