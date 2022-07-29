@@ -470,3 +470,19 @@ Leveling
 ### Tomb of Fahir
 - [ ] Crux - Windloft, Hurtling Steel (gloves) (h2)
 - [ ] Crux - Vithu, Shameless Urge (ring) (h4)
+
+
+# Get Item Set combos
+
+### Open World
+Skills: Helm sprint, Chest, Shoulder sprint, Legs stomp aoe, Mainhand Frenzy, Offhand
+- 2 Vithu - longer sprint (close to 2s CD)
+- 2 Issatar - Faster movement on kills, with Frenzy main hand 15% faster movespeed
+- 2 Grace - Sprint head burn damage
+
+### Raid
+- 2 Vithu - longer buffs
+- 4 Warrags - Basic attack damage with Frenzy build
+
+### Battlegrounds
+- Mountebank
