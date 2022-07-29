@@ -475,14 +475,16 @@ Leveling
 # Get Item Set combos
 
 ### Open World
-Skills: Helm sprint, Chest, Shoulder sprint, Legs stomp aoe, Mainhand Frenzy, Offhand
+Key Skills/Legendaries: Helm sprint, Shoulder sprint, Mainhand Frenzy runspeed
 - 2 Vithu - longer sprint (close to 2s CD)
 - 2 Issatar - Faster movement on kills, with Frenzy main hand 15% faster movespeed
 - 2 Grace - Sprint head burn damage
 
 ### Raid
+Key Skills/Legendaries: FRENZY! Helm Demo dmg, Chest 10% charge dmg, Shoulder wrath cd, Legs charge blink, Main hand Frenzy aoe, Offhand Wrath crit
 - 2 Vithu - longer buffs
 - 4 Warrags - Basic attack damage with Frenzy build
 
 ### Battlegrounds
+Key Skills: Charge blink, Whirlwind cc, bigger range and extra damage, Unstable Rage and Sprint
 - Mountebank
