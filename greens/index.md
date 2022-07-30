@@ -1,13 +1,13 @@
 <!-- ![Set Items](../docs/assets/images/set-items.png) -->
 
 # Recommended set items by class:
-- [Barbarian set](greens/barb.html)
-- [Crusader set](greens/crux.html)
-- [Demon Hunter set](greens/dh.html)
-- [Monk set](greens/monk.html)
-- [Necromancer set](greens/necro.html)
-- [Wizard set](greens/wiz.html)
-- [World Farmer set](greens/farmer.html)
+- [Barbarian set](barb.html)
+- [Crusader set](crux.html)
+- [Demon Hunter set](dh.html)
+- [Monk set](monk.html)
+- [Necromancer set](necro.html)
+- [Wizard set](wiz.html)
+- [World Farmer set](farmer.html)
 
 -----
 
